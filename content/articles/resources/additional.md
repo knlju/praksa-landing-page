@@ -7,7 +7,7 @@ categories:
 - "CSS"
 - "JS"
 - "GIT"
-  keywords:
+keywords:
 - "HTML"
 - "CSS"
 - "JS"
