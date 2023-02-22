@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/praksa-landing-page",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
