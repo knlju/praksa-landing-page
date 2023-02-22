@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gatsby-starter-portfolio-minimal-theme.iml" filepath="$PROJECT_DIR$/.idea/gatsby-starter-portfolio-minimal-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gspf.iml" filepath="$PROJECT_DIR$/.idea/gspf.iml" />
     </modules>
   </component>
 </project>
