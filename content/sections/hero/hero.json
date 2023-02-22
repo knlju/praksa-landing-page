@@ -1,0 +1,22 @@
+{
+  "intro": "Hej",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Dobrodošli na naš HTML CSS JS praksu!",
+  "subtitle": {
+    "prefix": "Spojite teoriju ",
+    "highlight": "i praksu",
+    "suffix": "."
+  },
+  "description": "Učite uz podršku mentora i primenite znanje kreiranjem modernih veb sajtova",
+  "socialProfiles": {
+    "from": [],
+    "showIcons": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "HTML CSS",
+      "title": "Card",
+      "description": "Pravljenje card komponente. CSS pozicioniranje. ",
+      "tags": ["HTML", "CSS"],
+      "image": {
+        "src": "../../images/1z.PNG",
+        "alt": "Card",
+        "linkTo": "https://quantox-zadatak-1.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/knlju/quantox-zadatak-1"
+        },
+        {
+          "type": "external",
+          "url": "/zadaci/week1.7z"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

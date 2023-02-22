@@ -1,0 +1,33 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Gatsby Starter for Portfolio Minimal",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Ljubisa Knezevic",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "",
+    "social": {
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "HTML CSS JS Praksa" },
+    "navigation": {
+      "header": [
+        { "label": "O praksi", "url": "/#about" },
+        { "label": "FAQ", "url": "/faq" },
+        { "label": "Projekti", "url": "/#features" }
+      ],
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
